@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package demo;
+
+service Transform {
+	rpc flip(stream Point) returns (stream Point) {}
+}
+
+message Point {
+	double x = 1;
+	double y = 2;
+	Canvas canvas = 3;
+}
+
+message Canvas {
+	int64 width = 1;
+	int64 height = 2;
+}
