@@ -11,13 +11,3 @@ $ go get
 ```bash
 $ go run server.go
 ```
-
----
-
-&nbsp;
-
-## Maintainers
-
-| Name            | Email                   |
-| :-------------- | :---------------------- |
-| Michael Edenzon |                         |

@@ -11,13 +11,3 @@ $ pip install grpcio
 ```bash
 $ python main.py
 ```
-
----
-
-&nbsp;
-
-## Maintainers
-
-| Name            | Email                   |
-| :-------------- | :---------------------- |
-| Michael Edenzon |                         |

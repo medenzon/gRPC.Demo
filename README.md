@@ -101,13 +101,3 @@ Python
 ```bash
 $ python -m grpc_tools.protoc -I . demo.proto --python_out=draw/protos/ --grpc_python_out=draw/protos/
 ```
-
----
-
-&nbsp;
-
-## Maintainers
-
-| Name            | Email                   |
-| :-------------- | :---------------------- |
-| Michael Edenzon |                         |
