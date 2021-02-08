@@ -78,7 +78,7 @@ Serve up transform service on `:9901`
 $ go run server.go
 ```
 
-From the `/draw` directory, run `pip install grpcio`. Then start up the application:
+From the `/draw` directory, run `pip install grpcio && pip install protobuf`. Then start up the application:
 
 ```bash
 $ python main.py

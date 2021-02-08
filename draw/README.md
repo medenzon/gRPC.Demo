@@ -5,7 +5,7 @@ Python drawing application built using the Python [Tkinter](https://wiki.python.
 ## Build & Run Instructions
 
 ```bash
-$ pip install grpcio
+$ pip install grpcio && pip install protobuf
 ```
 
 ```bash
